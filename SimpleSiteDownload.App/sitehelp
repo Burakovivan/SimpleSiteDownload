@@ -1,0 +1,10 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Frameset//EN">
+<html>
+<head>
+  <title>Provegas ::</title>
+</head>
+<frameset cols="30%, 70%">
+  <frame src="menu.htm" name="menu" id="menu">
+  <frame src="1.htm" name="main" id="main">
+</frameset>
+</html>
